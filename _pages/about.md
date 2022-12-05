@@ -22,4 +22,6 @@ Personal
 In my free time, I enjoy skiing, cycling, and rock climbing.  I have two dogs named Hilbert and Moose, and a cat named Copernicus. 
 
 
-
+CV
+=====
+You can find my CV [here](https://github.com/kdayers/kdayers/blob/master/files/KimberlyAyersCV.pdf)
