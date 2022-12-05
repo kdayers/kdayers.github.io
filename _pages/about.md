@@ -16,5 +16,10 @@ Media Appearances
 
 I have appeared on [My Favorite Theorem](https://kpknudson.com/my-favorite-theorem/2022/10/20/episode-80-kimberley-ayers) and done an interview with the LGBT Tech [PATHS Program](https://www.youtube.com/watch?v=EGSAgZZN73I).
 
+Personal
+=====
+
+In my free time, I enjoy skiing, cycling, and rock climbing.  I have two dogs named Hilbert and Moose, and a cat named Copernicus. 
+
 
 
