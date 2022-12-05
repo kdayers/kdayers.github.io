@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [math department](https://www.csusm.edu/math/index.html) at California State University San Marcos.  My [research](kdayers.github.io/publications) is in the area of dynamical systems and ergodic theory. 
+I am an Assistant Professor in the [math department](https://www.csusm.edu/math/index.html) at California State University San Marcos.  My [research](kdayers.github.io/publications) is in the area of dynamical systems and ergodic theory. Prior to joining San Marcos, I held positions at Carroll College in Helena, MT, and Pomona College, in Claremont, CA.  I got my Ph.D. in mathematics from Iowa State University in 2015. I also have a B.A. from Bowdoin College. 
+
+My email address is kayers\[at\]csusm\[dot\]edu.
 
 I ascribe to the axioms written by [Federico Ardila](fardila.com):
 
