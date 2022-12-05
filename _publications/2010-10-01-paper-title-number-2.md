@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Limit and Morse Sets for Deterministic Hybrid Systems"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://link.springer.com/article/10.1007/s12346-012-0092-y
+excerpt: 'The term “hybrid system” refers to a continuous time dynamical system that undergoes Markovian perturbations at discrete time intervals. In this paper, we find that under the right formulation, a hybrid system can be treated as a dynamical system on a compact space. This allows us to study its limit sets. We examine the Morse decompositions of hybrid systems, find a sufficient condition for the existence of a non-trivial Morse decomposition, and study the Morse sets of such a decomposition. Finally, we consider the case in which the Markovian perturbations are small, showing that trajectories in a hybrid system with small perturbations behave similarly to those of the unperturbed dynamical system.'
+
+'
+date: 2012-11-22
+venue: 'Qualitative Theory of Dynamical Systems'
+paperurl: 'https://link.springer.com/article/10.1007/s12346-012-0092-y'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The term “hybrid system” refers to a continuous time dynamical system that undergoes Markovian perturbations at discrete time intervals. In this paper, we find that under the right formulation, a hybrid system can be treated as a dynamical system on a compact space. This allows us to study its limit sets. We examine the Morse decompositions of hybrid systems, find a sufficient condition for the existence of a non-trivial Morse decomposition, and study the Morse sets of such a decomposition. Finally, we consider the case in which the Markovian perturbations are small, showing that trajectories in a hybrid system with small perturbations behave similarly to those of the unperturbed dynamical system.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
