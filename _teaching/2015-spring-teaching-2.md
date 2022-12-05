@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Math 448 - Mathematical Models and Methods in Biology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2022-fall-teaching-1
+venue: "CSUSM, Department"
+date: 2022-08-01
+location: "San Marcos, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduces mathematical models in Biology and their analysis. Both one dimensional models, including the Malthusian Model and the logistic model, and multi-dimensional models, including structured population models and predator-prey models, are studied, as are matrix models for base substitution in DNA, phylogenetic trees, and sequence alignment. Mathematical concepts and methods to formulate and analyze these models include limits, derivatives, matrix algebra, eigenvectors, probability theory, and dynamic programming. Software is used to simulate models and visualize the numerical results.
 
-Heading 1
-======
+All materials can be found on our Canvas page. 
 
-Heading 2
-======
-
-Heading 3
-======
