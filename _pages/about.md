@@ -24,4 +24,4 @@ In my free time, I enjoy skiing, cycling, and rock climbing.  I have two dogs na
 
 CV
 =====
-You can find my CV [here](https://github.com/kdayers/kdayers/blob/master/files/KimberlyAyersCV.pdf)
+You can find my CV [here](https://github.com/kdayers/kdayers.github.io/blob/master/files/KimberlyAyersCV.pdf)
