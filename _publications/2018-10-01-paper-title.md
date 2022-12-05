@@ -1,0 +1,11 @@
+---
+title: "Modelling acute myeloid leukaemia in a continuum of differentiation states"
+collection: publications
+permalink: https://pubmed.ncbi.nlm.nih.gov/30271874/
+excerpt: 'Here we present a mathematical model of movement in an abstract space representing states of cellular differentiation. We motivate this work with recent examples that demonstrate a continuum of cellular differentiation using single cell RNA sequencing data to characterize cellular states in a high-dimensional space, which is then mapped into R^2 or R^3 with dimension reduction techniques. We represent trajectories in the differentiation space as a graph, and model directed and random movement on the graph with partial differential equations. We hypothesize that flow in this space can be used to model normal and abnormal differentiation processes. We present a mathematical model of hematopoeisis parameterized with publicly available single cell RNA-Seq data and use it to simulate the pathogenesis of acute myeloid leukemia (AML). The model predicts the emergence of cells in novel intermediate states of differentiation consistent with immunophenotypic characterizations of a mouse model of AML.'
+date: 2018-06-18
+venue: 'Letters of Biomathematics'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/30271874/'
+
+---
+Here we present a mathematical model of movement in an abstract space representing states of cellular differentiation. We motivate this work with recent examples that demonstrate a continuum of cellular differentiation using single cell RNA sequencing data to characterize cellular states in a high-dimensional space, which is then mapped into R^2 or R^3 with dimension reduction techniques. We represent trajectories in the differentiation space as a graph, and model directed and random movement on the graph with partial differential equations. We hypothesize that flow in this space can be used to model normal and abnormal differentiation processes. We present a mathematical model of hematopoeisis parameterized with publicly available single cell RNA-Seq data and use it to simulate the pathogenesis of acute myeloid leukemia (AML). The model predicts the emergence of cells in novel intermediate states of differentiation consistent with immunophenotypic characterizations of a mouse model of AML.
