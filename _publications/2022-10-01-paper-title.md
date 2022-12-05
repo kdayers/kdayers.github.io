@@ -1,11 +1,12 @@
 ---
 title: "Search for invariant sets of the generalized tent map"
 collection: publications
-permalink: https://tandfonline.com/doi/full/10.1080/10236198.2022.2119851?scroll=top
+permalink: https://www.tandfonline.com/doi/full/10.1080/10236198.2022.2119851?scroll=top
 excerpt: 'This paper describes a predictive control method to search for unstable periodic orbits of the generalized tent map. The invariant set containing periodic orbits is a repelling set with a complicated Cantor-like structure. Therefore, a simple local stabilization of the orbit may not be enough to find a periodic orbit, due to the small measure of the basin of attraction. It is shown that for certain values of the control parameter, both the local behaviour and the global behaviour of solutions change in the controlled system; in particular, the invariant set enlarges to become an interval or the entire real axis. The computational particularities of using the control system are considered, and necessary conditions for the orbit to be periodic are given. The question of local asymptotic stability of subcycles of the controlled system's stable cycles is fully investigated, and some statistical properties of the subset of the classical Cantor middle thirds set that is determined by the periodic points of the generalized tent map are described.'
-date: 2022-09-27
+date: 2022-09-26
 venue: 'Journal of Difference Equations and Applications'
-paperurl: 'https://tandfonline.com/doi/full/10.1080/10236198.2022.2119851?scroll=top'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/10236198.2022.2119851?scroll=top'
 
 ---
 This paper describes a predictive control method to search for unstable periodic orbits of the generalized tent map. The invariant set containing periodic orbits is a repelling set with a complicated Cantor-like structure. Therefore, a simple local stabilization of the orbit may not be enough to find a periodic orbit, due to the small measure of the basin of attraction. It is shown that for certain values of the control parameter, both the local behaviour and the global behaviour of solutions change in the controlled system; in particular, the invariant set enlarges to become an interval or the entire real axis. The computational particularities of using the control system are considered, and necessary conditions for the orbit to be periodic are given. The question of local asymptotic stability of subcycles of the controlled system's stable cycles is fully investigated, and some statistical properties of the subset of the classical Cantor middle thirds set that is determined by the periodic points of the generalized tent map are described.
+
