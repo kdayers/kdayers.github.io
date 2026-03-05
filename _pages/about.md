@@ -33,7 +33,7 @@ I have appeared on [My Favorite Theorem](https://kpknudson.com/my-favorite-theor
 Personal
 =====
 
-In my free time, I enjoy skiing, cycling, and rock climbing.  I have two dogs named Moose and Pepper.
+In my free time, I enjoy skiing, cycling, and rock climbing.  I have three dogs named Moose, Pepper, and Daffodil.
 
 CV
 =====
