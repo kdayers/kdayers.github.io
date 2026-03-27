@@ -28,7 +28,7 @@ These statements should not sound revolutionary, but considering the current pra
 Media Appearances
 =====
 
-I have appeared on [My Favorite Theorem](https://kpknudson.com/my-favorite-theorem/2022/10/20/episode-80-kimberley-ayers) and done an interview with the LGBT Tech [PATHS Program](https://www.youtube.com/watch?v=EGSAgZZN73I).
+I have appeared on [My Favorite Theorem](https://kpknudson.com/my-favorite-theorem/2022/10/20/episode-80-kimberley-ayers) and done an interview with the LGBT Tech [PATHS Program](https://www.youtube.com/watch?v=EGSAgZZN73I).  On March 31, 2026, catch me on Jeopardy!
 
 Personal
 =====
